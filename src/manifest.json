@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome Extension Example",
+  "description": "Chrome extension example",
+  "version": "1.0.1",
+  "icons": {"128": "logo_128.png"},
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
