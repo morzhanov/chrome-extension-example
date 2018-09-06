@@ -1,5 +1,7 @@
 # Chrome Extension example
 
+<img src="https://i.imgur.com/qWoLo69.png"/>
+
 ### Simple Chrome extension project.
 
 <a target="_blank" href="https://bit.ly/2GIadQ5" >Check it on Chrome web store</a>
