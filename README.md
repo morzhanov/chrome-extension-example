@@ -1,6 +1,6 @@
 # Chrome Extension example
 
-<img src="https://i.imgur.com/qWoLo69.png"/>
+<img src="https://i.imgur.com/liW0NZY.png"/>
 
 ### Simple Chrome extension project.
 
